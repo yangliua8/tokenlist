@@ -28,7 +28,7 @@
       "address": "0x0faF6df7054946141266420b43783387A78d82A9",
       "symbol": "USDC",
       "name": "USDC",
-      "decimals": 8,
+      "decimals": 18,
       "tags": ["defi"]
     },
      {
@@ -36,7 +36,7 @@
       "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
       "symbol": "DAI",
       "name": "DAI",
-      "decimals": 8,
+      "decimals": 18,
       "tags": ["defi"]
     },
      {
