@@ -22,5 +22,21 @@
       "name": "USDC",
       "decimals": 18,
       "tags": ["defi"]
+    },
+     {
+      "chainId": 280,
+      "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
+      "symbol": "MUTE",
+      "name": "MUTE",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+     {
+      "chainId": 280,
+      "address": "0xc2B13Bb90E33F1E191b8aA8F44Ce11534D5698E3",
+      "symbol": "COMBO",
+      "name": "COMBO",
+      "decimals": 18,
+      "tags": ["defi"]
     }
   ]
