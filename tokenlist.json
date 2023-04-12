@@ -1,4 +1,12 @@
-[
+{
+  "name": "INEXCHANGE",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "zksync",
+    "dex"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens":[
     {
       "chainId": 280,
       "address": "0x0000000000000000000000000000000000000000",
@@ -39,4 +47,10 @@
       "decimals": 18,
       "tags": ["defi"]
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
